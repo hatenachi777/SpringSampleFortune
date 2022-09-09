@@ -1,3 +1,2 @@
 # SpringSampleFortune
-# SpringSampleFortune
-# SpringSampleFortune
+
